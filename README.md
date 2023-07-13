@@ -1,6 +1,4 @@
-# Hi! Welcome to my GitHub Page! 👨🏻‍💻
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Vieira</h1>
+# Hi! Welcome to my GitHub Page! I'm Lucas Vieira 👨🏻‍💻
 
 ## 👨🏻‍💻 About Me
 - 🔥 Junior Developer Full Stack
