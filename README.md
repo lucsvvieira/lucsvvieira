@@ -14,18 +14,6 @@
 
 <br><br>
 
-## Contact
-
-<p align="left" style="background:yellow">
-
-<a href="https://www.linkedin.com/in/lucass-vieira/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/lucsvvieira/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
 <!--
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
