@@ -33,7 +33,7 @@
 
 ## Contact
 <p>
-    <a href="https://linkedin.com/in/lucsvvieira" target="_blank">
+    <a href="https://www.linkedin.com/in/lucass-vieira/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-lucsvvieira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
     <a href="https://instagram.com/lucsvvieira" target="_blank">
